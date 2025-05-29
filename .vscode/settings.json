@@ -9,8 +9,8 @@
     "editor.formatOnPaste": true,
     "extensions.ignoreRecommendations": false,
     "editor.codeActionsOnSave": {
-        "source.fixAll.eslint": true,
-        "source.fixAll.prettier": true
+        "source.fixAll.eslint": "explicit",
+        "source.fixAll.prettier": "explicit"
     },
     "javascript.format.enable": true,
     "javascript.format.semicolons": "insert",

@@ -1,28 +1,33 @@
 {
-    "name": "powerballsimulator",
+    "name": "powerball-simulator",
     "description": "Powerball simulator to simulate chances of winning.",
     "version": "1.0.0",
     "private": false,
     "scripts": {
         "dev": "next dev",
         "build": "next build && next export",
-        "deploy": "yarn build && touch out/.nojekyll && git add out/ -f && git commit -m \"chore: deployment\" && git subtree push --prefix out origin gh-pages",
+        "deploy": "pnpm build && touch out/.nojekyll && git add out/ -f && git commit -m \"chore: deployment\" && git subtree push --prefix out origin gh-pages",
         "start": "next start",
         "lint": "next lint",
         "fmt": "prettier --write **/*.{js,ts,jsx,tsx,json}"
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/r1zyn/powerball-simulator"
+        "url": "https://github.com/xtncz/powerball-simulator"
     },
     "bugs": {
-        "url": "https://github.com/r1zyn/powerball-simulator/issues"
+        "url": "https://github.com/xtncz/powerball-simulator/issues"
     },
     "author": {
         "name": "r1zyn",
-        "url": "https://github.com/r1zyn"
+        "url": "https://github.com/xtncz"
     },
-    "keywords": ["lotto", "lottery", "powerball", "simulator"],
+    "keywords": [
+        "lotto",
+        "lottery",
+        "powerball",
+        "simulator"
+    ],
     "license": "Unlicense",
     "dependencies": {
         "@fortawesome/fontawesome-svg-core": "^6.2.0",
