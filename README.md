@@ -8,7 +8,7 @@
             <img src="https://img.shields.io/github/commit-activity/m/xtncz/powerball-simulator?color=yellow&logo=github&style=for-the-badge" alt="Commit activity">
         </a>
         <a href="https://github.com/xtncz/powerball-simulator/actions/workflows/pages/pages-build-deployment">
-            <img src="https://img.shields.io/github/workflow/status/xtncz/powerball-simulator/pages%20build%20and%20deployment?logo=github&style=for-the-badge" alt="Workflow status">
+            <img src="https://github.com/xtncz/powerball-simulator/actions/workflows/pages/pages-build-deployment/badge.svg" alt="Workflow status">
         </a>
         <a href="https://github.com/xtncz/powerball-simulator/search?l=typescript">
             <img src="https://img.shields.io/github/languages/top/xtncz/powerball-simulator?logo=typescript&style=for-the-badge" alt="Top language" />
