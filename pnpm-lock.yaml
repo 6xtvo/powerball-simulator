@@ -66,6 +66,9 @@ importers:
       prettier:
         specifier: ^2.7.1
         version: 2.8.8
+      touch-cli:
+        specifier: ^0.0.1
+        version: 0.0.1
       typescript:
         specifier: 4.8.4
         version: 4.8.4
@@ -441,6 +444,10 @@ packages:
 
   color-name@1.1.4:
     resolution: {integrity: sha512-dOy+3AuW3a2wNbZHIuMZpTcgjGuLU/uBL/ubcZF9OXbDo8ff4O8yVp5Bf0efS8uEoYo5q4Fx7dY9OgQGXgAsQA==}
+
+  commander@0.6.1:
+    resolution: {integrity: sha512-0fLycpl1UMTGX257hRsu/arL/cUbcvQM4zMKwvLvzXtfdezIV4yotPS2dYtknF+NmEfWSoCEF6+hj9XLm/6hEw==}
+    engines: {node: '>= 0.4.x'}
 
   concat-map@0.0.1:
     resolution: {integrity: sha512-/Srv4dswyQNBfohGpz9o6Yb3Gz3SrUDqBH5rTuhGR7ahtlbYKnVxw2bCFMRljaA7EXHaXZ8wsHdodFvbkhKmqg==}
@@ -1359,6 +1366,10 @@ packages:
     resolution: {integrity: sha512-65P7iz6X5yEr1cwcgvQxbbIw7Uk3gOy5dIdtZ4rDveLqhrdJP+Li/Hx6tyK0NEb+2GCyneCMJiGqrADCSNk8sQ==}
     engines: {node: '>=8.0'}
 
+  touch-cli@0.0.1:
+    resolution: {integrity: sha512-NqFJf+83U4VoPAqv1aG+JrWXwPMKUyPL2zvzJq9n88gBMYlzM5Qgq8Haqs2O2ng4yPwlU9p2KaegJ/W6bkr2fQ==}
+    hasBin: true
+
   tsconfig-paths@3.15.0:
     resolution: {integrity: sha512-2Ac2RgzDe/cn48GvOe3M+o82pEFewD3UPbyoUHHdKasHwJKjds4fLXWf/Ux5kATBKN20oaFGu+jbElp1pos0mg==}
 
@@ -1827,6 +1838,8 @@ snapshots:
       color-name: 1.1.4
 
   color-name@1.1.4: {}
+
+  commander@0.6.1: {}
 
   concat-map@0.0.1: {}
 
@@ -2964,6 +2977,10 @@ snapshots:
   to-regex-range@5.0.1:
     dependencies:
       is-number: 7.0.0
+
+  touch-cli@0.0.1:
+    dependencies:
+      commander: 0.6.1
 
   tsconfig-paths@3.15.0:
     dependencies:
