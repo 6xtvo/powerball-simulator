@@ -16,7 +16,7 @@ export const alphabets: string[] = "abcdefghijklmnopqrstuvwxyz"
 export const metadata: Metadata = {
     url:
         process.env.NODE_ENV === "production"
-            ? "https://r1zyn.github.io/powerball-simulator/"
+            ? "https://xtncz.github.io/powerball-simulator/"
             : "http://localhost:3000/",
     "theme-color": "#ffffff",
     image: assetPath("/assets/XJY3ZrAQqf5zCq3kZb6obQUF1grJp6k6.png"),
@@ -30,11 +30,11 @@ export const metadata: Metadata = {
 export const urls = {
     article:
         "https://www.rnz.co.nz/news/in-depth/474134/lotto-stores-in-poorest-half-of-nz-account-for-70-percent-of-sales",
-    license: "https://github.com/r1zyn/powerball-simulator/blob/master/LICENSE",
-    github: "https://github.com/r1zyn/powerball-simulator",
+    license: "https://github.com/xtncz/powerball-simulator/blob/master/LICENSE",
+    github: "https://github.com/xtncz/powerball-simulator",
     nextjs: "https://nextjs.org/",
     nodejs: "https://nodejs.org/",
-    developer: "https://github.com/r1zyn",
+    developer: "https://github.com/xtncz",
     sockt: "https://sockt.vercel.app/",
     matrix: "https://matrixdev.xyz/",
     lotto: "https://mylotto.co.nz/lotto/how-to-play"
