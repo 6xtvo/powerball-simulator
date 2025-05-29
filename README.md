@@ -1,17 +1,17 @@
 <div align="center">
     <h1>Powerball Simulator</h1>
     <div>
-        <a href="https://github.com/r1zyn/powerball-simulator/issues">
-            <img src="https://img.shields.io/github/issues/r1zyn/powerball-simulator?logo=github&style=for-the-badge" alt="Issues" />
+        <a href="https://github.com/xtncz/powerball-simulator/issues">
+            <img src="https://img.shields.io/github/issues/xtncz/powerball-simulator?logo=github&style=for-the-badge" alt="Issues" />
         </a>
-        <a href="https://github.com/r1zyn/powerball-simulator/commits/master">
-            <img src="https://img.shields.io/github/commit-activity/m/r1zyn/powerball-simulator?color=yellow&logo=github&style=for-the-badge" alt="Commit activity">
+        <a href="https://github.com/xtncz/powerball-simulator/commits/master">
+            <img src="https://img.shields.io/github/commit-activity/m/xtncz/powerball-simulator?color=yellow&logo=github&style=for-the-badge" alt="Commit activity">
         </a>
-        <a href="https://github.com/r1zyn/powerball-simulator/actions/workflows/pages/pages-build-deployment">
-            <img src="https://img.shields.io/github/workflow/status/r1zyn/powerball-simulator/pages%20build%20and%20deployment?logo=github&style=for-the-badge" alt="Workflow status">
+        <a href="https://github.com/xtncz/powerball-simulator/actions/workflows/pages/pages-build-deployment">
+            <img src="https://img.shields.io/github/workflow/status/xtncz/powerball-simulator/pages%20build%20and%20deployment?logo=github&style=for-the-badge" alt="Workflow status">
         </a>
-        <a href="https://github.com/r1zyn/powerball-simulator/search?l=typescript">
-            <img src="https://img.shields.io/github/languages/top/r1zyn/powerball-simulator?logo=typescript&style=for-the-badge" alt="Top language" />
+        <a href="https://github.com/xtncz/powerball-simulator/search?l=typescript">
+            <img src="https://img.shields.io/github/languages/top/xtncz/powerball-simulator?logo=typescript&style=for-the-badge" alt="Top language" />
         </a>
     </div>
 </div>
@@ -46,7 +46,7 @@ A `deploy` script defined in [`package.json`](package.json) will run `next build
 
 ### Disclaimer
 
-First of all, this site is not serious. This is just a side project, so do not expect anything here to be actually serious (meaning this disclaimer won't look so formal like other sites). This project was created as a visual and more user-friendly, interactive version of a C# Powerball program. The main use of this site is to simulate the chances of winning money from Powerball (although may noy be fully accurate).
+This site is not serious. This is just a side project, so do not expect anything here to be actually serious. This project was created as a visual and more user-friendly, interactive version of a C# Powerball program. The main use of this site is to simulate the chances of winning money from Powerball (although may noy be fully accurate).
 
 Credit also goes to Next.js, in which the site's theme was taken from (the site's theme was essentially "borrowed" from Next.js's site, so got to give them credit). This site was also created with Next.js itself.
 
@@ -56,10 +56,10 @@ Links to Next.js, the GitHub repository and more are listed in the footer. This 
 
 ### Links
 
-* [Site](https://r1zyn.github.io/powerball-simulator)
-* [Repository](https://github.com/r1zyn/powerball-simulator)
-* [License](https://github.com/r1zyn/powerball-simulator/blob/master/LICENSE)
+* [Site](https://xtncz.github.io/powerball-simulator)
+* [Repository](https://github.com/xtncz/powerball-simulator)
+* [License](https://github.com/xtncz/powerball-simulator/blob/master/LICENSE)
 
 ### License
 
-This open-source project is licensed under the [Unlicense](https://github.com/r1zyn/powerball-simulator/blob/master/LICENSE) license.
+This open-source project is licensed under the [Unlicense](https://github.com/xtncz/powerball-simulator/blob/master/LICENSE) license.
