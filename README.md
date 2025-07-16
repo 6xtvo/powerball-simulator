@@ -1,17 +1,17 @@
 <div align="center">
     <h1>Powerball Simulator</h1>
     <div>
-        <a href="https://github.com/xtncz/powerball-simulator/issues">
-            <img src="https://img.shields.io/github/issues/xtncz/powerball-simulator?logo=github&style=for-the-badge" alt="Issues" />
+        <a href="https://github.com/6xtvo/powerball-simulator/issues">
+            <img src="https://img.shields.io/github/issues/6xtvo/powerball-simulator?logo=github&style=for-the-badge" alt="Issues" />
         </a>
-        <a href="https://github.com/xtncz/powerball-simulator/commits/master">
-            <img src="https://img.shields.io/github/commit-activity/m/xtncz/powerball-simulator?color=yellow&logo=github&style=for-the-badge" alt="Commit activity">
+        <a href="https://github.com/6xtvo/powerball-simulator/commits/master">
+            <img src="https://img.shields.io/github/commit-activity/m/6xtvo/powerball-simulator?color=yellow&logo=github&style=for-the-badge" alt="Commit activity">
         </a>
-        <a href="https://github.com/xtncz/powerball-simulator/actions/workflows/pages/pages-build-deployment">
-            <img src="https://github.com/xtncz/powerball-simulator/actions/workflows/pages/pages-build-deployment/badge.svg" alt="Workflow status">
+        <a href="https://github.com/6xtvo/powerball-simulator/actions/workflows/pages/pages-build-deployment">
+            <img src="https://github.com/6xtvo/powerball-simulator/actions/workflows/pages/pages-build-deployment/badge.svg" alt="Workflow status">
         </a>
-        <a href="https://github.com/xtncz/powerball-simulator/search?l=typescript">
-            <img src="https://img.shields.io/github/languages/top/xtncz/powerball-simulator?logo=typescript&style=for-the-badge" alt="Top language" />
+        <a href="https://github.com/6xtvo/powerball-simulator/search?l=typescript">
+            <img src="https://img.shields.io/github/languages/top/6xtvo/powerball-simulator?logo=typescript&style=for-the-badge" alt="Top language" />
         </a>
     </div>
 </div>
